@@ -24,6 +24,16 @@ Calculate Zodiac Signs: Identifies the zodiac sign for each celestial body.
 Calculate House Lords: Determines the lords of the houses based on the ascendant sign and the corresponding zodiac signs.
 Print Detailed Report: Outputs detailed information including house lords, planets and their signs, planets and their Nakshatras, and houses and their signs.
 
+How It Works
+The tool takes a list of dates as input and identifies occurrences where Saturn appears. It then analyzes these dates to find overlapping occurrences of Saturn. The more overlap there is among the dates, the stronger the prediction according to astrological interpretations.
+
+Usage
+To use the tool:
+
+Input a list of dates.
+Run the program to analyze and calculate Saturn overlaps.
+Review the output to identify dates with stronger Saturn predictions based on overlap.
+
 
 ![image](https://github.com/RPavan14/horoscope-prediction/assets/172471565/9954c2b1-605c-4967-8965-982345174699)
 
