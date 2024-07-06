@@ -23,3 +23,7 @@ Calculate Nakshatras: Computes the Nakshatra for each celestial body based on it
 Calculate Zodiac Signs: Identifies the zodiac sign for each celestial body.
 Calculate House Lords: Determines the lords of the houses based on the ascendant sign and the corresponding zodiac signs.
 Print Detailed Report: Outputs detailed information including house lords, planets and their signs, planets and their Nakshatras, and houses and their signs.
+
+
+![image](https://github.com/RPavan14/horoscope-prediction/assets/172471565/9954c2b1-605c-4967-8965-982345174699)
+
